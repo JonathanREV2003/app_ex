@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app_ex</string>
+    <string name="buttonLogin">LOGIN</string>
+    <string name="temporiza">Temporizador pomodoro</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+</resources>
